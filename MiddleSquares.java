@@ -1,3 +1,5 @@
+// 161019: : : : : : : : : : : : : : : : : : : : 
+//cwcoleman * * * * * * * * * * * * * 
 //Get a random seed  
 //Multiply the seed by itself
 //Output the middle of this result

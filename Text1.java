@@ -1,3 +1,5 @@
+// 161019: : : : : : : : : : : : : : : : : : : : 
+//cwcoleman * * * * * * * * * * * * * 
 // save this file as Text1.java
 // javac Text1.java
 class Text1 {

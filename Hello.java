@@ -1,3 +1,5 @@
+// 161019: : : : : : : : : : : : : : : : : : : : 
+//cwcoleman * * * * * * * * * * * * * 
 // save file as Hello.java in a folder called java
 // compile wih 		$javac Hello.java
 // run with   		$java Hello

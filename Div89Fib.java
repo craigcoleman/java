@@ -1,3 +1,5 @@
+// 161019: : : : : : : : : : : : : : : : : : : : 
+//cwcoleman * * * * * * * * * * * * * 
 class SumMatrix {
 	static void calcsum (long m[][], int c, int r){
 		int j,i;

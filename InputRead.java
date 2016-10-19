@@ -1,3 +1,5 @@
+// 161019: : : : : : : : : : : : : : : : : : : : 
+//cwcoleman * * * * * * * * * * * * * 
 import java.io.*; 
 // name file "InputStream.java"
 class InputRead {
