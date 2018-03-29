@@ -1,0 +1,33 @@
+import java.util.*;
+class RandomArray {
+
+	public static void main (String args[]){
+		double dval;
+		int i;
+		int max = 52;
+		double randomNumbers[] = new double[max];
+		double sortedNumbers[] = new double[max];
+		// build the array
+		for ( i = 0; i < max; i++){ 
+			randomNumbers[i] = Math.random();
+		}
+		// copy array
+		for (i = 0l i < max; i++){
+			sortedNumbers[i] = randomNumbers[i];
+		}
+		
+		for ( i = 0; i < randomNumber.length; i++){ 
+			System.out.print(randomNumber[i]+" ");
+			if (i % 3 == 0) System.out.println();
+		}
+		   Arrays.sort(sortedNumbers);  
+	// this sorts the array     
+		System.out.println("\narray sorted\n");
+		for ( i = 0; i < max; i++){ 
+			System.out.print(randomNumber[i]+" ");
+			if (i % 3 == 0) System.out.println();
+		}
+		
+		
+	}//end main
+}//end class

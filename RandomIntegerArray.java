@@ -49,7 +49,7 @@ class RandomIntegerArray {
 			System.out.println("* * * * * * * * * * * * *");
 			System.out.println("MAXIMUM MATCHES -> "+maxMatches);
 			System.out.println("* * * * * * * * * * * * *");
-			System.out.println("MSHUFFLES       -> "+shuffles);
+			System.out.println("SHUFFLES       -> "+shuffles);
 			System.out.println("* * * * * * * * * * * * *");
 			Thread.sleep(1000);
 	}//end infinite loop for (;;)
